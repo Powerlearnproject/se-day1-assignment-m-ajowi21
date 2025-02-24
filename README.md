@@ -12,40 +12,40 @@ Explain what software engineering is and discuss its importance in the technolog
 --Teamwork: Good software engineering practices help everyone involved in the project (developers, designers, managers) work together smoothly.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
---Early Days (1950s-1960s): At first, software was written by hand, with no real rules. It was difficult and very slow.
---Structured Programming (1970s): A breakthrough happened when developers started organizing their code in a clearer way. This made programs easier to understand and maintain.
---Agile Movement (2000s): Agile was introduced as a flexible way to develop software. It focused on quickly building small pieces of software, testing them, and improving them based on feedback. This change allowed for faster and more customer-focused development.
+1. Early Days (1950s-1960s): At first, software was written by hand, with no real rules. It was difficult and very slow.
+2. Structured Programming (1970s): A breakthrough happened when developers started organizing their code in a clearer way. This made programs easier to understand and maintain.
+3. Agile Movement (2000s): Agile was introduced as a flexible way to develop software. It focused on quickly building small pieces of software, testing them, and improving them based on feedback. This change allowed for faster and more customer-focused development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
---Requirements Gathering: The first step is figuring out what the software should do. People involved (like customers or users) explain their needs.
---Design: Next, developers plan how the software will work. They decide how it will look and how all its parts will connect.
---Development (Coding): After the design, developers start writing the actual code to make the software work.
---Testing: Once the software is written, it’s tested to make sure it does what it’s supposed to do and doesn't have any major bugs or issues.
---Deployment: After testing, the software is released and made available for people to use.
---Maintenance: Even after release, the software needs updates or bug fixes based on feedback from users or new challenges that arise.
+1. Requirements Gathering: The first step is figuring out what the software should do. People involved (like customers or users) explain their needs.
+2. Design: Next, developers plan how the software will work. They decide how it will look and how all its parts will connect.
+3. Development (Coding): After the design, developers start writing the actual code to make the software work.
+4. Testing: Once the software is written, it’s tested to make sure it does what it’s supposed to do and doesn't have any major bugs or issues.
+5. Deployment: After testing, the software is released and made available for people to use.
+6. Maintenance: Even after release, the software needs updates or bug fixes based on feedback from users or new challenges that arise.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
--Waterfall Method
+1. Waterfall Method
 --What is it?: Waterfall is a step-by-step process where you complete each phase before moving to the next. It’s like building a house one room at a time.
 --When to use it: It works best when you know exactly what the software should do from the beginning. Example: in big government projects or in industries where rules and regulations are very strict.
 --Pros: It’s easy to manage because you follow a clear plan, and you know what to expect at each stage.
 --Cons: It’s hard to change things once you start. If something is wrong, it’s expensive and time-consuming to fix later.
--Agile Method
+2. Agile Method
 --What is it?: Agile is a more flexible approach. It breaks the project into smaller parts, called "sprints," and focuses on building and improving software quickly with constant feedback.
 --When to use it: Agile works great for projects where things change often or where the exact requirements aren't clear from the start. Example: creating a new mobile app or a website.
 --Pros: It’s flexible, so you can make changes easily. You can release parts of the software faster and improve as you go.
 --Cons: It can be hard to predict exactly how long it will take to finish the project. Also, it requires a lot of communication and collaboration among the team.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
----Software Developer:
+1. Software Developer:
 --What they do: They write the actual code that makes the software work. They use programming languages to bring the software’s design to life.
 --Skills needed: Good at problem-solving and programming. They also need to know how to debug and fix errors in the code.
 
----Quality Assurance (QA) Engineer:
+2. Quality Assurance (QA) Engineer:
 --What they do: QA engineers test the software to make sure it works correctly. They look for bugs or problems before the software is released to users.
 --Skills needed: Attention to detail, understanding how the software should behave, and sometimes creating automated tests to speed up the process.
 
----Project Manager:
+3. Project Manager:
 --What they do: They oversee the entire software project. They plan the schedule, make sure everyone is doing their part, and communicate with stakeholders to keep the project on track.
 --Skills needed: Strong leadership, good communication, and organizational skills. They need to keep the project moving forward and deal with any problems that arise.
 
@@ -130,11 +130,11 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 --Helps AI Understand: AI models, like ChatGPT, don’t think like humans. They respond based on patterns and data. Clear prompts guide the AI to give the most relevant and precise answers.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
---Vague Prompt:
+1. Vague Prompt:
 "Tell me about history."
 This prompt is too broad and unclear. "History" is a huge subject, and the AI doesn't know whether you mean world history, specific countries, or even a particular event.
 
---Improved Prompt:
+2. Improved Prompt:
 "Tell me about the history of the Roman Empire during the reign of Julius Caesar."
 This improved prompt is clear, specific, and concise. Here’s why it works better:
 ---Specificity: It tells the AI exactly which part of history you want to know about (the Roman Empire and Julius Caesar).
